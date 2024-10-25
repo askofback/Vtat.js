@@ -14,7 +14,7 @@ Vtat.js version ver 0.0.1 beta
   ],
   "other": [
     "user:other"
-  ],
+  ]
 }
 }
 ```
